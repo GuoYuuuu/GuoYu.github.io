@@ -7,7 +7,6 @@ excerpt: "![PCB design](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/
 ![Results (part)](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/frequency/FrequencyMeter.png?raw=true)
 ![ ](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/frequency/result.png?raw=true)
 ![ ](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/frequency/meter2.png?raw=true)
-![ ](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/frequency/result2.png?raw=true)
-![Code (part)](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/frequency/CODE.png?raw=true)"
+![ ](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/frequency/result2.png?raw=true)"
 collection: portfolio
 ---
