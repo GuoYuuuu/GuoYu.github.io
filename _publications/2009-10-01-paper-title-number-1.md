@@ -1,14 +1,13 @@
----
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+---
+title: "Path planning of intelligent aircraft based on linear matrix inequality"
+collection: publications
+category: published
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'Intelligent aircraft plays an increasingly important role in a variety of applications. The aircraft's position accuracy while arriving at the application scenery is required. And it necessitates the flight's trajectory planning with appropriate position corrections due to the accumulated position errors that usually occur during the flight. To this end, this paper proposes a trajectory planning method for an intelligent aircraft working in some complex conditions, where an linear matrix inequality (LMI)-based optimizing method is utilized to achieve the dual goal of minimum correction times and minimum travel length. According to the number of available correction points and their different influences on the aircraft position, a triangular variable matrix with 0-1 entries is first designed to represent a flight trajectory that starts from point A, traverses a series of correction points in a target-oriented manner without any repetition, and ultimately arrives at the target point. After that, several other compulsory constranits are imposed on the trajectory-related matrix's variable entries, all of these constranits are later transformed and imposed on the previously defined variable matrix as a whole. The LMI-based optimizing method is performed to achieve the dual goal. Simulational results validate the proposed trajectory planning method and demonstrate its remarkable performance in the sense of less computing resources and optimization results, compared with many other optimization methods such as linear pro-gramming.'
+date: 2022-05
+venue: 'GNSS World of China'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'#'http://www.qqdwxt.cn/en/article/doi/10.12265/j.gnss.2021083103'
+citation: 'SHEN Tiantian, YUAN Simin, WU Fang, CHEN Zhongxiang, YU Guo. Path planning of intelligent aircraft based on linear matrix inequality[J]. GNSS World of China, 2022, 47(2): 73-81. doi: 10.12265/j.gnss.2021083103'
+---
