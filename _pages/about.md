@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am Guo Yu, currently a second year graduate student in Geomatics Engineering at School of Remote Sensing and Information Engineering (https://rsgis.whu.edu.cn/), Wuhan University (https://en.whu.edu.cn/), focusing on spatio-temporal data analysis and geographic information systems (GIS), being advised by Binbin Lu (https://scholar.google.com/citations?user=j2pr_eAAAAAJ&hl=en&oi=ao). My academic journey began with a Bachelor's degree in Electronic Information Engineering from School of Engineering and Design (https://gsy.hunnu.edu.cn/), Hunan Normal University (https://www.hunnu.edu.cn/).
 
 A data-driven personal website
 ======
