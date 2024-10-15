@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Dashboard for Monitoring Emissions and Noise in China’s Civil Aviation"
-permalink: /portfolio/portfolio-1
+permalink: "/portfolio/portfolio-1"
 excerpt: "![Work flow](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/dashboard/TECHNIQUE.png?raw=true)
 ![Interface](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/dashboard/mainBoard.png?raw=true)
 ![](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/dashboard/query1.png?raw=true)
