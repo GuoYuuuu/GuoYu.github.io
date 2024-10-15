@@ -9,4 +9,3 @@ venue: 'GNSS World of China'
 paperurl: 'http://www.qqdwxt.cn/en/article/doi/10.12265/j.gnss.2021083103'
 citation: 'SHEN Tiantian, YUAN Simin, WU Fang, CHEN Zhongxiang, YU Guo. Path planning of intelligent aircraft based on linear matrix inequality[J]. GNSS World of China, 2022, 47(2): 73-81. doi: 10.12265/j.gnss.2021083103.'
 ---
-
