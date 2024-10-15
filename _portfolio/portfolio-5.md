@@ -1,6 +1,6 @@
 ---
 title: "Microcontroller-Based Equal-Precision Frequency Meter Design"
-permalink: /portfolio/portfolio-5
+permalink: "/portfolio/portfolio-5"
 excerpt: "![PCB design](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/frequency/PCB.png?raw=true)
 ![ ](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/frequency/PCB2.png?raw=true)
 ![ ](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/frequency/PCB3.png?raw=true)
