@@ -1,5 +1,5 @@
 ---
-title: "Processing 3D Flight Trajectory data with Adaptive Kalman Filtering"
+title: "Processing 3D Flight Trajectory data with Adaptive Kalman Filtering (accepted)"
 collection: publications
 category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
