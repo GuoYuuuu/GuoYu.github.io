@@ -1,6 +1,6 @@
 ---
 title: "Mathematical modeling competitions"
-permalink: /portfolio/portfolio-6
+permalink: "/portfolio/portfolio-6"
 excerpt: "![Visualization](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/mathematical/1.png?raw=true)
 ![ ](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/mathematical/2.png?raw=true)
 ![ ](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/mathematical/3.png?raw=true)
