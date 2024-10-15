@@ -1,5 +1,6 @@
 ---
 title: "Automatic Electromagnetic Tracking for Four-Wheeled Intelligent Vehicles Design"
+permalink: /portfolio/portfolio-4
 excerpt: "![The views of our vehicle](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/vehicle/above.png?raw=true)
 ![ ](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/vehicle/left.png?raw=true)
 ![ ](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/vehicle/adjust.png?raw=true)
