@@ -7,7 +7,7 @@ excerpt: "The views of the vehicle![The views of our vehicle](https://github.com
 ![ ](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/vehicle/competition.png?raw=true)
 ![ ](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/vehicle/competition2.png?raw=true)
 The design of the electronic circuit (part)![The design of the electronic circuit (part)](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/vehicle/circuit.png?raw=true)
-The video of vehicle tracking![tracking](https://github.com/user-attachments/assets/851b936e-6927-4a41-bf9f-7ba6d8505a7e)"
+The video of vehicle tracking![tracking](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/tracking.gif?)"
 collection: portfolio
 ---
 
