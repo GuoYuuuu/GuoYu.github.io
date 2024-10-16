@@ -7,6 +7,6 @@ excerpt: "
 ![](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/pathplanning/20210831-03-3.png?raw=true)
 ![](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/pathplanning/20210831-03-4.png?raw=true)
 ![](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/pathplanning/20210831-03-5.png?raw=true)
-![](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/pathplanning/20210831-03-6.png?raw=true)
+![](https://github.com/GuoYuuuu/GuoYu.github.io/blob/master/pathplanning/20210831-03-6.png?raw=true)"
 collection: portfolio
 ---
